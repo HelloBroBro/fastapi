@@ -21,6 +21,7 @@ hide:
 
 ### Translations
 
+* 🌐 Add Bengali translations for `docs/bn/docs/learn/index.md`. PR [#11337](https://github.com/tiangolo/fastapi/pull/11337) by [@imtiaz101325](https://github.com/imtiaz101325).
 * 🌐 Fix Korean translation for `docs/ko/docs/index.md`. PR [#11296](https://github.com/tiangolo/fastapi/pull/11296) by [@choi-haram](https://github.com/choi-haram).
 * 🌐 Add Korean translation for `docs/ko/docs/about/index.md`. PR [#11299](https://github.com/tiangolo/fastapi/pull/11299) by [@choi-haram](https://github.com/choi-haram).
 * 🌐 Add Korean translation for `docs/ko/docs/advanced/index.md`. PR [#9613](https://github.com/tiangolo/fastapi/pull/9613) by [@ElliottLarsen](https://github.com/ElliottLarsen).
@@ -34,6 +35,7 @@ hide:
 
 ### Internal
 
+* 🔧 Update sponsors, add MongoDB. PR [#11346](https://github.com/tiangolo/fastapi/pull/11346) by [@tiangolo](https://github.com/tiangolo).
 * ⬆ Bump dorny/paths-filter from 2 to 3. PR [#11028](https://github.com/tiangolo/fastapi/pull/11028) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * ⬆ Bump dawidd6/action-download-artifact from 3.0.0 to 3.1.4. PR [#11310](https://github.com/tiangolo/fastapi/pull/11310) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * ♻️ Refactor computing FastAPI People, include 3 months, 6 months, 1 year, based on comment date, not discussion date. PR [#11304](https://github.com/tiangolo/fastapi/pull/11304) by [@tiangolo](https://github.com/tiangolo).
