@@ -60,6 +60,9 @@ hide:
 
 ### Internal
 
+* 🔧 Tweak sponsors: Kong URL. PR [#11765](https://github.com/tiangolo/fastapi/pull/11765) by [@tiangolo](https://github.com/tiangolo).
+* 🔧 Tweak sponsors: Kong URL. PR [#11764](https://github.com/tiangolo/fastapi/pull/11764) by [@tiangolo](https://github.com/tiangolo).
+* 🔧 Update sponsors, add Stainless. PR [#11763](https://github.com/tiangolo/fastapi/pull/11763) by [@tiangolo](https://github.com/tiangolo).
 * 🔧 Update sponsors, add Zuplo. PR [#11729](https://github.com/tiangolo/fastapi/pull/11729) by [@tiangolo](https://github.com/tiangolo).
 * 🔧 Update Sponsor link: Coherence. PR [#11730](https://github.com/tiangolo/fastapi/pull/11730) by [@tiangolo](https://github.com/tiangolo).
 * 👥 Update FastAPI People. PR [#11669](https://github.com/tiangolo/fastapi/pull/11669) by [@tiangolo](https://github.com/tiangolo).
