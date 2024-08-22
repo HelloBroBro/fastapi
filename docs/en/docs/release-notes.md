@@ -14,6 +14,7 @@ hide:
 
 ### Docs
 
+* 📝 Add docs about Environment Variables and Virtual Environments. PR [#12054](https://github.com/fastapi/fastapi/pull/12054) by [@tiangolo](https://github.com/tiangolo).
 * 📝 Add Asyncer mention in async docs. PR [#12037](https://github.com/fastapi/fastapi/pull/12037) by [@tiangolo](https://github.com/tiangolo).
 * 📝 Move the Features docs to the top level to improve the main page menu. PR [#12036](https://github.com/fastapi/fastapi/pull/12036) by [@tiangolo](https://github.com/tiangolo).
 * ✏️ Fix import typo in reference example for `Security`. PR [#11168](https://github.com/fastapi/fastapi/pull/11168) by [@0shah0](https://github.com/0shah0).
@@ -31,6 +32,8 @@ hide:
 
 ### Translations
 
+* 🌐 Add Portuguese translation for `docs/pt/docs/tutorial/request_file.md`. PR [#12018](https://github.com/fastapi/fastapi/pull/12018) by [@Joao-Pedro-P-Holanda](https://github.com/Joao-Pedro-P-Holanda).
+* 🌐 Add Japanese translation for `docs/ja/docs/learn/index.md`. PR [#11592](https://github.com/fastapi/fastapi/pull/11592) by [@ukwhatn](https://github.com/ukwhatn).
 * 📝 Update Spanish translation docs for consistency. PR [#12044](https://github.com/fastapi/fastapi/pull/12044) by [@alejsdev](https://github.com/alejsdev).
 * 🌐 Update docs about dependencies with yield. PR [#12028](https://github.com/fastapi/fastapi/pull/12028) by [@xuvjso](https://github.com/xuvjso).
 * 📝 Update FastAPI People, do not translate to have the most recent info. PR [#12034](https://github.com/fastapi/fastapi/pull/12034) by [@tiangolo](https://github.com/tiangolo).
