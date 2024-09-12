@@ -7,6 +7,16 @@ hide:
 
 ## Latest Changes
 
+### Internal
+
+* ➕ Add inline-snapshot for tests. PR [#12189](https://github.com/fastapi/fastapi/pull/12189) by [@tiangolo](https://github.com/tiangolo).
+
+## 0.114.1
+
+### Refactors
+
+* ⚡️ Improve performance in request body parsing with a cache for internal model fields. PR [#12184](https://github.com/fastapi/fastapi/pull/12184) by [@tiangolo](https://github.com/tiangolo).
+
 ### Docs
 
 * 📝 Remove duplicate line in docs for `docs/en/docs/environment-variables.md`. PR [#12169](https://github.com/fastapi/fastapi/pull/12169) by [@prometek](https://github.com/prometek).
